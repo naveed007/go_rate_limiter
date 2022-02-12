@@ -1,6 +1,7 @@
 ### Go Rate Limiter
 
 Rate limiting examples in Golang.
+https://medium.com/@justin.graber/rate-limiting-in-golang-f3ed2c62df36
 
 `$ go get github.com/jpg013/ratelimiter`
 
